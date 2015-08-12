@@ -1,0 +1,1 @@
+NAudio Flac Library, based on the sources of cscore.codeplex.com.
