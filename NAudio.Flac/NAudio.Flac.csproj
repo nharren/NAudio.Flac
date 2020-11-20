@@ -17,6 +17,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>music naudio flac</PackageTags>
     <PackageReleaseNotes>Just trying to keep this alive:, see: https://github.com/VPKSoft/NAudio.Flac</PackageReleaseNotes>
+    <PackageId>NAudio.Flac.VPKSoft</PackageId>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netcoreapp3.1|AnyCPU'">
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
